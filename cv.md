@@ -1,17 +1,10 @@
----
-layout: page
-title: Curriculum Vitae
-permalink: /cv/
----
-
-# Woomin Park
+## Woomin Park
 
 Ph.D. Student  
 Department of Philosophy, Purdue University  
 Email: [park1824@purdue.edu](mailto:park1824@purdue.edu)  
-Website: [woomin-park.github.io](https://woomin-park.github.io)
+Website: [woomin-park.github.io](https://woomin-park.github.io) |
 Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org/profiles/woomin-park)
----
 
 ## Areas of Interest
 * Metaphysics, Epistemology, History and Philosophy of Physics, of Science, and of Science Education
@@ -20,13 +13,13 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
 * **Ph.D. Student in Philosophy**, Purdue University (Aug 2024–Present)
 * **Ph.D. Student in Philosophy**, Seoul National University (Sep 2021–Aug 2022)
 * **M.A. in Philosophy**, Seoul National University (Mar 2018–Feb 2021)
-  * [cite_start]Thesis: A Unifying Approach to Grounding and Causation: Unification Through Structural Similarity (Adviser: Sungil Han)
+  * Thesis: A Unifying Approach to Grounding and Causation: Unification Through Structural Similarity (Advisor: Sungil Han)
   * Graduate with The Woogok Prize for the Best Master of Arts Thesis (Department of Philosophy)
 * **B.A. in Philosophy**, Yonsei University (Mar 2013–Feb 2018)
   * Military Leave of Absence (Aug 2015–Aug 2017)
 * **B.Ed. in Physics Education**, Korea National University of Education (Feb 2012)
   * Double-major in General Science Education
-  * [cite_start]Graduate with Teacher Certificates in Physics, and General Science (Secondary School)
+  * Graduate with Teacher Certificates in Physics, and General Science (Secondary School)
 
 ## Employment
 * **Teaching Assistant (Part Time)**, Purdue University (Jun 2025–Present)
@@ -56,14 +49,14 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
 * 2026 Undergraduate Philosophy Conference Planning/Conference Organization Committee
 * 2025 Undergraduate Philosophy Conference Planning/Conference Organization Committee
   * Member, Department of Philosophy, Purdue University
-* Editing Manuscript of [_Discovery of the Pacific Ocean, Founding of the Republic of Korea_](https://search.worldcat.org/title/1285074529) ( (Spring 2021)
-  * Research Assistant for Prof. Jung Hyoo Ko, Pohang University of Science and Technology [cite: 45]
+* Editing Manuscript of [_Discovery of the Pacific Ocean, Founding of the Republic of Korea_](https://search.worldcat.org/title/1285074529) (Spring 2021)
+  * Research Assistant for Prof. Jung Hyoo Ko, Pohang University of Science and Technology
 * Editorial Assistant for _CHUL HAK SA SANG: Journal of Philosophical Ideas_ (Nos. 70–73 & 84–85) (Sep 2018–Aug 2019 & Mar 2022–Aug 2022)
   * Editorial Assistant for Prof. Sungil Han (Editor), Institute of Philosophy, Seoul National University
 
 ## Academic Honors and Awards
 * Ross Fellowship (for the Recruitment of Outstanding Ph.D. Track Students), AY 2024–2029 (Purdue Univ.)
-* [cite_start]Graduate Student Instructor Scholarship (Full Tuition and Stipend), Fall 2018, Spring 2019, Spring 2022 (Seoul National Univ.)
+* Graduate Student Instructor Scholarship (Full Tuition and Stipend), Fall 2018, Spring 2019, Spring 2022 (Seoul National Univ.)
 * Graduate Teaching Assistantship (Stipend), Spring 2018, Fall 2019 (Seoul National Univ.)
 * The Woogok Prize for the Best Master of Arts Thesis, Dec 2020, Class of 2021 (Department of Philosophy, Seoul National Univ.)
 * Son Ju-Eun Scholarship for Creative Talents (approx. 3100USD), Nov 2019, Fall 2019 (The Yoonmin Foundation & College of Humanities, Seoul National Univ.)
@@ -122,7 +115,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
   * Ultimism (with Micheal Bergmann & Jeffery Brower, May 2025–July 2025)
   * Pruss: Infinity, Causation, & Paradox (with Micheal Bergmann & Jeffery Brower, Jan 2025–Mar 2025)
 * **FSU**
-* Reductionism in Philosophy of Mind (Aug 2023–Nov 2023)
+  * Reductionism in Philosophy of Mind (Aug 2023–Nov 2023)
 * **Seoul**
   * Philosophy of Science Education: Epistemic Aims of Science Education (Leader, Apr 2023–Aug 2023)
   * Neo-Aristotelian Perspectives on Contemporary Science (with Sungil Han, July 2019)
