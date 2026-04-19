@@ -1,6 +1,3 @@
----
-layout: home
----
 https://www.cla.purdue.edu/directory/profiles/woomin-park.html
 
 Park, Woomin (pronounced [pag-u-min] in Korean) is a Ph.D. student in the Department of Philosophy at Purdue University. 
