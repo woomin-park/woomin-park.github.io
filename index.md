@@ -1,0 +1,9 @@
+---
+layout: home
+---
+https://www.cla.purdue.edu/directory/profiles/woomin-park.html
+
+Park, Woomin (pronounced [pag-u-min] in Korean) is a Ph.D. student in the Department of Philosophy at Purdue University. 
+His research sits at the intersection of metaphysics, epistemology, and philosophy of science. His earlier work explored the possibility of unifying metaphysical grounding and causation, focusing on the challenges posed by grounding necessitarianism. Recently, he has been thinking about epistemological questions concerning science and science education, especially the aims of science education—whether it ought to promote justified belief, knowledge, understanding, or something else—and the nature of scientific knowledge, explanation, and understanding themselves. Even so, he is still drawn to the metaphysical implications of physics, and the relation of physics to the other special sciences.
+
+Before pursuing philosophy, Woomin trained to be a physics teacher at Korea National University of Education. He then earned a B.A. in philosophy from Yonsei University and an M.A. in philosophy from Seoul National University. Following his master's degree, he taught high school physics as a part-time instructor and served as a teaching associate of humanities at Pohang University of Science and Technology (POSTECH). Before coming to Purdue, he was a doctoral student in philosophy at Seoul National University.
