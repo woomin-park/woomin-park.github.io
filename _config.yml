@@ -5,6 +5,4 @@ description: >
   Ph.D. Student in Philosophy at Purdue University.
 theme: minima
 header_pages:
-  - research.md
-  - teaching.md
   - cv.md
