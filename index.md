@@ -1,7 +1,7 @@
-<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 40px; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
 
   <div style="flex-shrink: 0;">
-    <img src="/profile.jpg" alt="Woomin Park" style="width: 220px; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
+    <img src="/profile.jpg" alt="Woomin Park" style="width: 220px; border-radius: 5%; box-shadow: 0 4px 8px rgba(0,0,0,0.05);">
   </div>
 
   <div style="flex: 1; min-width: 300px;">
