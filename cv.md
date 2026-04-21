@@ -13,7 +13,7 @@ Website: [woomin-park.github.io](https://woomin-park.github.io) |
 Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org/profiles/woomin-park)
 
 ## Areas of Interest
-* Metaphysics, Epistemology, History and Philosophy of Physics, of Science, and of Science Education
+* Metaphysics, Epistemology, General Philosophy of Science, and Philosophy of Education
 
 ## Education
 * **Ph.D. Student in Philosophy**, Purdue University (Aug 2024–Present)
@@ -57,7 +57,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
   * Member, Department of Philosophy, Purdue University
 * Editing Manuscript of [_Discovery of the Pacific Ocean, Founding of the Republic of Korea_](https://search.worldcat.org/title/1285074529) (Spring 2021)
   * Research Assistant for Prof. Jung Hyoo Ko, Pohang University of Science and Technology
-* Editorial Assistant for _CHUL HAK SA SANG: Journal of Philosophical Ideas_ (Nos. 70–73 & 84–85) (Sep 2018–Aug 2019 & Mar 2022–Aug 2022)
+* Editorial Assistant for [_CHUL HAK SA SANG: Journal of Philosophical Ideas_](https://snuphilinst.jams.or.kr/co/com/EgovMenu.kci?s_url=/sj/search/sjSereClasList.kci&s_MenuId=MENU-000000000053000&accnId=null) (Nos. 70–73 & 84–85) (Sep 2018–Aug 2019 & Mar 2022–Aug 2022)
   * Editorial Assistant for Prof. Sungil Han (Editor), Institute of Philosophy, Seoul National University
 
 ## Academic Honors and Awards
@@ -81,7 +81,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
 * **Seoul** 
   * S22 Mental Causation (Sungil Han)
   * F19 What Is It to Exist? (Sungil Han)
-  * S19 Karen Bennett’s Making Things Up (Jaeho Lee/Chung-Ang Univ.)
+  * S19 Karen Bennett’s _Making Things Up_ (Jaeho Lee/Chung-Ang Univ.)
   * F18 Possible World Metaphysics and Hyperintensional Metaphysics (Sungil Han)
   * S18 Frege’s Puzzle (Jinho Kang)
 
@@ -109,7 +109,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
   * S26 The Problem of Universals in Late Antiquity & the Middle Ages (Vikram Kumar)
   * F25 Plato’s Philosophy of Perception (Lea Schroeder)
   * S25 Plato’s and Aristotle’s Ontology and Metaphysics (Daniel Frank)
-  * F24 20th Century Analytical Philosophy (Jamin Asay
+  * F24 20th Century Analytical Philosophy (Jamin Asay)
 * **Seoul**
   * S22 Virtue Ethics in Ancient Philosophy (Sang-Jin Kang)
   * S22 Gadamer’s Truth and Method (Chankook Park)
@@ -119,7 +119,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
 * **Purdue** 
   * Fragmentalism (with Micheal Bergmann & Jeffery Brower, Sep 2025–Oct 2025)
   * Ultimism (with Micheal Bergmann & Jeffery Brower, May 2025–July 2025)
-  * Pruss: Infinity, Causation, & Paradox (with Micheal Bergmann & Jeffery Brower, Jan 2025–Mar 2025)
+  * Pruss: _Infinity, Causation, & Paradox_ (with Micheal Bergmann & Jeffery Brower, Jan 2025–Mar 2025)
 * **FSU**
   * Reductionism in Philosophy of Mind (Aug 2023–Nov 2023)
 * **Seoul**
