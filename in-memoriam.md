@@ -12,11 +12,11 @@ permalink: /in-memoriam/
 
 <div style="margin-top: 50px; margin-bottom: 40px; text-align: center;"><iframe width="100%" height="400" style="max-width: 600px; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);" src="https://www.youtube.com/embed/GLIE9aOgsOs" title="In Memory of Jan-Felix Müller" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Jan-Felix was truly an angel who graced this world with his presence. I find it hard to imagine meeting someone as bright, cheerful, and curious as him again.
+Jan-Felix was truly an angel who graced this world with his presence. I find it hard to imagine meeting someone as bright, cheerful, and curious as him again.<br>
 
 <br>
 
-In my early days here in Tallahassee, struggling with even the simplest English, J-F patiently listened to my broken words. It is no small thing for someone to listen closely when we feel as if we have lost our ability to express ourselves. It was as if, without the language to express myself, I had lost part of my identity, and felt like a helpless infant. Yet, with his sparkling eyes and attentive presence, he gave me the strength to feel seen and understood. He was the first person with whom I connected despite the absence of a shared native language. From this, I found strength in my fragile existence.
+In my early days here in Tallahassee, struggling with even the simplest English, J-F patiently listened to my broken words. It is no small thing for someone to listen closely when we feel as if we have lost our ability to express ourselves. It was as if, without the language to express myself, I had lost part of my identity, and felt like a helpless infant. Yet, with his sparkling eyes and attentive presence, he gave me the strength to feel seen and understood. He was the first person with whom I connected despite the absence of a shared native language. From this, I found strength in my fragile existence.<br>
 
 <br>
 
@@ -28,11 +28,14 @@ At first, J-F’s direct way of speaking sometimes caught me off guard, as someo
 
 <br>
 
-I only wish I could have expressed that my gratitude better in return. I regret that some of my clumsy and unpolished words may have hurt him, and it breaks my heart that we no longer have the chance to share these thoughts and feelings together.
+I only wish I could have expressed that my gratitude better in return. I regret that some of my clumsy and unpolished words may have hurt him, and it breaks my heart that we no longer have the chance to share these thoughts and feelings together.<br>
 
 <br>
 
-His sudden passing leaves a painful void in all our lives. But for those of us who knew him, his love continues to resonate, like a light that lingers even after its source has gone—deep, abiding, and unforgettable.
+His sudden passing leaves a painful void in all our lives. But for those of us who knew him, his love continues to resonate, like a light that lingers even after its source has gone—deep, abiding, and unforgettable.<br>
+
+<br>
+
 Rest in peace, dear Jan-Felix. You will always live in our hearts.<br>
 
 <br>
