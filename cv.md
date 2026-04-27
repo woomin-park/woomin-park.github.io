@@ -57,17 +57,23 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
   * Member, Department of Philosophy, Purdue University
 * Editing Manuscript of [_Discovery of the Pacific Ocean, Founding of the Republic of Korea_](https://search.worldcat.org/title/1285074529) (Spring 2021)
   * Research Assistant for Prof. Jung Hyoo Ko, Pohang University of Science and Technology
+* Lead Coordinator, World-Leading Department Fostering Project, Seoul National University (May–Jun 2020)
+  * Managed the preperation process for the National Research Foundation of Korea (NRF) KCI Journal Evaluation on behalf of [_CHUL HAK SA SANG: Journal of Philosophical Ideas_](https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=001235&from=sereDetail).
 * Editorial Assistant for [_CHUL HAK SA SANG: Journal of Philosophical Ideas_](https://snuphilinst.jams.or.kr/co/com/EgovMenu.kci?s_url=/sj/search/sjSereClasList.kci&s_MenuId=MENU-000000000053000&accnId=null) (Nos. 70–73 & 84–85) (Sep 2018–Aug 2019 & Mar 2022–Aug 2022)
-  * Editorial Assistant for Prof. Sungil Han (Editor), Institute of Philosophy, Seoul National University
+  * Managed the editorial workflow under the supervision of Editor-in-Chief Prof. Sungil Han (Editor-in-Chief), Institute of Philosophy, Seoul National University
 
 ## Academic Honors and Awards
-* Ross Fellowship (for the Recruitment of Outstanding Ph.D. Track Students), AY 2024–2029 (Purdue Univ.)
+* Ross Fellowship (for the Recruitment of Outstanding Ph.D. Track Students), AY 2024–2029 (Purdue Univ.)  
+
+
 * Graduate Student Instructor Scholarship (Full Tuition and Stipend), Fall 2018, Spring 2019, Spring 2022 (Seoul National Univ.)
 * Graduate Teaching Assistantship (Stipend), Spring 2018, Fall 2019 (Seoul National Univ.)
 * The Woogok Prize for the Best Master of Arts Thesis, Dec 2020, Class of 2021 (Department of Philosophy, Seoul National Univ.)
 * Son Ju-Eun Scholarship for Creative Talents (approx. 3100USD), Nov 2019, Fall 2019 (The Yoonmin Foundation & College of Humanities, Seoul National Univ.)
   * Project Title: "Choose between the two: Quantum Monism or Grounding Contingentism"
 * The Graduate Teaching Assistants Excellence Award, Aug 2018, Spring 2018 (Faculty of Liberal Education, Seoul National Univ.)
+
+
 * 2nd Prize in Presentation ("Measurement of Mind," with Hyunmee Kim), Aug 2011, Presentation Competition at 10th APCTP Science Communication School
 * Departmental Honor Student Scholarship (1/3 Tuition, Merit-based), Fall 2009, Spring 2011, Fall 2011 (Department of Physics Education, Korea National Univ. of Edu.)
 * The National Scholarships for Science and Engineering (1/2 Tuition, Merit-based), Spring 2008, Fall 2008, Spring 2009 (Korea Science and Engineering Foundation)
