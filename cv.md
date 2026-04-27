@@ -60,7 +60,7 @@ Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org
 * Lead Coordinator, World-Leading Department Fostering Project, Seoul National University (May–Jun 2020)
   * Managed the preperation process for the National Research Foundation of Korea (NRF) KCI Journal Evaluation on behalf of [_CHUL HAK SA SANG: Journal of Philosophical Ideas_](https://www.kci.go.kr/kciportal/po/search/poCitaView.kci?sereId=001235&from=sereDetail).
 * Editorial Assistant for [_CHUL HAK SA SANG: Journal of Philosophical Ideas_](https://snuphilinst.jams.or.kr/co/com/EgovMenu.kci?s_url=/sj/search/sjSereClasList.kci&s_MenuId=MENU-000000000053000&accnId=null) (Nos. 70–73 & 84–85) (Sep 2018–Aug 2019 & Mar 2022–Aug 2022)
-  * Managed the editorial workflow under the supervision of Editor-in-Chief Prof. Sungil Han (Editor-in-Chief), Institute of Philosophy, Seoul National University
+  * Managed the editorial workflow under the supervision of Editor-in-Chief Prof. Sungil Han, Institute of Philosophy, Seoul National University
 
 ## Academic Honors and Awards
 * Ross Fellowship (for the Recruitment of Outstanding Ph.D. Track Students), AY 2024–2029 (Purdue Univ.)  
