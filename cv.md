@@ -1,3 +1,16 @@
+---
+layout: page
+title: Curriculum Vitae
+permalink: /cv/
+---
+
+## Woomin Park
+
+Ph.D. Student  
+Department of Philosophy, Purdue University  
+Email: [park1824@purdue.edu](mailto:park1824@purdue.edu)  
+Website: [woomin-park.github.io](https://woomin-park.github.io) |
+Philpapers: [https://philpeople.org/profiles/woomin-park](https://philpeople.org/profiles/woomin-park)
 
 <div style="margin-bottom: 20px; text-align: right;">
   <a href="/cv.pdf" target="_blank" rel="noopener noreferrer" style="display: inline-block; padding: 8px 16px; border: 1px solid #ccc; color: #555; text-decoration: none; font-size: 0.9em; border-radius: 4px;">
