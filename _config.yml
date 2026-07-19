@@ -2,7 +2,9 @@ title: Woomin Park
 author: 박우민
 email: park1824@purdue.edu
 description: > 
-  Ph.D. Student in Philosophy at Purdue University.
+  Ph.D. Student in Philosophy at Purdue University
+url: "https://woomin-park.github.io"
+baseurl: ""
 theme: minima
 header_pages:
   - index.md
