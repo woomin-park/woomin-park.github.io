@@ -1,3 +1,34 @@
+<style>
+  @media (max-width: 768px) {
+    /* 1. 모바일에서 햄버거 버튼(☰)을 완전히 숨김 */
+    .site-nav .nav-trigger, 
+    .site-nav .menu-icon {
+      display: none !important;
+    }
+    
+    /* 2. 숨겨져 있던 메뉴 목록을 모바일에서도 강제로 펼침 */
+    .site-nav .trigger {
+      display: block !important;
+      padding-bottom: 0 !important;
+      background-color: transparent !important;
+      border: none !important;
+    }
+    
+    /* 3. 세로로 나오는 메뉴들을 PC처럼 가로로 나열 */
+    .site-nav .page-link {
+      display: inline-block !important;
+      margin-left: 15px !important;
+      margin-bottom: 0 !important;
+    }
+    
+    /* 4. 메뉴 영역 전체를 우측 정렬 */
+    .site-nav {
+      border: none !important;
+      background: none !important;
+    }
+  }
+</style>
+
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
 
   <div style="flex-shrink: 0;">
