@@ -5,7 +5,7 @@ description: >
   Ph.D. Student in Philosophy at Purdue University
 url: "https://woomin-park.github.io"
 baseurl: ""
-theme: minima
+theme: tactile
 header_pages:
   - index.md
   - cv.md
