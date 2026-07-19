@@ -1,33 +1,3 @@
-<style>
-  /* PC 화면에서는 이 상단 바를 숨깁니다 */
-  .mobile-top-nav { display: none; }
-  
-  /* 모바일 화면(768px 이하)에서만 작동하는 규칙 */
-  @media (max-width: 768px) {
-    .mobile-top-nav {
-      display: flex;
-      justify-content: flex-end;
-      gap: 15px;
-      margin-top: -10px;    /* 타이틀과의 간격을 좁힙니다 */
-      margin-bottom: 20px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #e8e8e8; /* 깔끔한 구분선 */
-    }
-    .mobile-nav-link {
-      font-size: 15px;
-      font-weight: 500;
-      color: #424242;
-      text-decoration: none;
-    }
-  }
-</style>
-
-<!-- 모바일 전용 상단 고정 메뉴 바 -->
-<div class="mobile-top-nav">
-  <a href="/cv" class="mobile-nav-link">CV</a>
-  <a href="/in-memoriam" class="mobile-nav-link">In Memoriam</a>
-</div>
-
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
 
   <div style="flex-shrink: 0;">
