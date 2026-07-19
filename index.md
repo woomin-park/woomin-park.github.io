@@ -1,45 +1,39 @@
 <style>
-  /* 기본적으로 PC 화면에서는 이 모바일 전용 CV 버튼을 숨깁니다 */
-  .mobile-only-cv {
+  /* 기본 PC 화면에서는 이 모바일 전용 영역을 완전히 숨깁니다 */
+  .mobile-only-cv-container {
     display: none;
   }
 
-  /* 모바일 화면(화면 너비 768px 이하)에서만 작동하는 규칙 */
+  /* 모바일 화면(768px 이하)에서만 정갈하게 노출 */
   @media (max-width: 768px) {
-    /* 1. 원래 있던 햄버거 버튼 영역에 자리를 마련합니다 */
-    .site-nav {
-      display: flex !important;
-      align-items: center;
-      gap: 12px;
+    .mobile-only-cv-container {
+      display: block !important;
+      text-align: right;          /* 우측 정렬 */
+      margin-top: -15px;          /* 이름(Woomin Park) 바로 밑으로 밀착 */
+      margin-bottom: 15px;        /* 사진과의 간격 조정 */
+      padding-right: 5px;
     }
     
-    /* 2. 햄버거 버튼 왼쪽에 배치할 모바일 CV 버튼 디자인 */
-    .mobile-only-cv {
-      display: inline-block !important;
-      font-size: 16px;
+    .mobile-cv-link {
+      display: inline-block;
+      font-size: 14px;            /* 과하지 않은 단정한 크기 */
       font-weight: 500;
-      color: #424242; /* minima 테마 기본 글자 색상 */
+      color: #999;                /* 은은한 회색조로 서브 메뉴 느낌 강조 */
       text-decoration: none;
-      padding: 4px 8px;
-      border: 1px solid #e8e8e8; /* 과하지 않고 정갈한 테두리 */
-      border-radius: 4px;
-      background-color: #fafafa;
+      border-bottom: 1px solid #e8e8e8; /* 깔끔한 밑줄 효과 */
+      padding-bottom: 2px;
+    }
+    
+    .mobile-cv-link:active {
+      color: #333;
     }
   }
 </style>
 
-<!-- 모바일 전용 CV 바로가기 버튼 -->
-<script>
-  // 이 코드가 테마 구조상 햄버거 버튼 바로 앞으로 가도록 동적으로 위치를 잡아줍니다.
-  document.addEventListener("DOMContentLoaded", function() {
-    var menuIcon = document.querySelector(".site-nav .menu-icon");
-    var cvLink = document.getElementById("mobileCV");
-    if (menuIcon && cvLink) {
-      menuIcon.parentNode.insertBefore(cvLink, menuIcon);
-    }
-  });
-</script>
-<a href="/cv" id="mobileCV" class="mobile-only-cv">CV</a>
+<!-- 모바일 전용 CV 바로가기 (이름 밑에 배치) -->
+<div class="mobile-only-cv-container">
+  <a href="/cv" class="mobile-cv-link">Curriculum Vitae ➔</a>
+</div>
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
 
