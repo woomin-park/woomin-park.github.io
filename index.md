@@ -32,7 +32,7 @@
 
 <!-- 모바일 전용 CV 바로가기 (이름 밑에 배치) -->
 <div class="mobile-only-cv-container">
-  <a href="/cv" class="mobile-cv-link">Curriculum Vitae ➔</a>
+  <a href="/cv" class="mobile-cv-link">Curriculum Vitae</a>
 </div>
 
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
