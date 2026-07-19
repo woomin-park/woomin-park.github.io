@@ -1,33 +1,46 @@
 <style>
+  /* 기본적으로 PC 화면에서는 이 모바일 전용 CV 버튼을 숨깁니다 */
+  .mobile-only-cv {
+    display: none;
+  }
+
+  /* 모바일 화면(화면 너비 768px 이하)에서만 작동하는 규칙 */
   @media (max-width: 768px) {
-    /* 1. 모바일에서 햄버거 버튼(☰)을 완전히 숨깁니다 */
-    .site-nav .nav-trigger, 
-    .site-nav .menu-icon {
-      display: none !important;
-    }
-    
-    /* 2. 숨겨져 있던 메뉴 목록을 모바일에서도 강제로 펼칩니다 */
-    .site-nav .trigger {
-      display: block !important;
-      padding-bottom: 0 !important;
-      background-color: transparent !important;
-      border: none !important;
-    }
-    
-    /* 3. 세로로 나오는 메뉴들을 PC처럼 가로로 나열합니다 */
-    .site-nav .page-link {
-      display: inline-block !important;
-      margin-left: 15px !important;
-      margin-bottom: 0 !important;
-    }
-    
-    /* 4. 메뉴 영역 전체를 우측 정렬합니다 */
+    /* 1. 원래 있던 햄버거 버튼 영역에 자리를 마련합니다 */
     .site-nav {
-      border: none !important;
-      background: none !important;
+      display: flex !important;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    /* 2. 햄버거 버튼 왼쪽에 배치할 모바일 CV 버튼 디자인 */
+    .mobile-only-cv {
+      display: inline-block !important;
+      font-size: 16px;
+      font-weight: 500;
+      color: #424242; /* minima 테마 기본 글자 색상 */
+      text-decoration: none;
+      padding: 4px 8px;
+      border: 1px solid #e8e8e8; /* 과하지 않고 정갈한 테두리 */
+      border-radius: 4px;
+      background-color: #fafafa;
     }
   }
 </style>
+
+<!-- 모바일 전용 CV 바로가기 버튼 -->
+<script>
+  // 이 코드가 테마 구조상 햄버거 버튼 바로 앞으로 가도록 동적으로 위치를 잡아줍니다.
+  document.addEventListener("DOMContentLoaded", function() {
+    var menuIcon = document.querySelector(".site-nav .menu-icon");
+    var cvLink = document.getElementById("mobileCV");
+    if (menuIcon && cvLink) {
+      menuIcon.parentNode.insertBefore(cvLink, menuIcon);
+    }
+  });
+</script>
+<a href="/cv" id="mobileCV" class="mobile-only-cv">CV</a>
+
 <div style="display: flex; align-items: center; gap: 40px; margin-bottom: 20px; flex-wrap: wrap;">
 
   <div style="flex-shrink: 0;">
